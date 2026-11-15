@@ -12,18 +12,18 @@
 	<tbody>
 		<tr>
 			<td>Live Demo</td>
-			<td><a href="https://adityatelange.github.io/hugo-PaperMod/">adityatelange.github.io/hugo-PaperMod</a></td>
+			<td><a href="https://amin3ltd.github.io/hugo-PaperMod/">amin3ltd.github.io/hugo-PaperMod</a></td>
 		</tr>
 		<tr>
 			<td>Documentation 📚</td>
-			<td><a href="https://github.com/adityatelange/hugo-PaperMod/wiki">Github Wiki</a></td>
+			<td><a href="https://github.com/amin3ltd/hugo-papermod/wiki">Github Wiki</a></td>
 		</tr>
 		<tr>
 			<td>Example Site Source</td>
-			<td><a href="https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite">exampleSite branch</a></td>
+			<td><a href="https://github.com/amin3ltd/hugo-papermod/tree/exampleSite">exampleSite branch</a></td>
 		</tr>
 		<tr>
-			<td><a href="https://www.star-history.com/adityatelange/hugo-papermod"><img src="https://api.star-history.com/badge?repo=adityatelange/hugo-PaperMod&amp;theme=dark" alt="Star History Rank" /></a></td>
+			<td><a href="https://www.star-history.com/amin3ltd/hugo-papermod"><img src="https://api.star-history.com/badge?repo=amin3ltd/hugo-PaperMod&amp;theme=dark" alt="Star History Rank" /></a></td>
 			<td><a href="https://ko-fi.com/H2H229ZWH"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a></td>
 		</tr>
 	</tbody>
@@ -41,7 +41,7 @@
 `☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive`
 
 - **Asset pipeline** -- Hugo's built-in asset generator with fingerprinting, bundling, and minification.
-- **Three layout modes** -- [Regular](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#regular-mode-default-mode), [Home-Info](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode), and [Profile](https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode).
+- **Three layout modes** -- [Regular](https://github.com/amin3ltd/hugo-papermod/wiki/Features#regular-mode-default-mode), [Home-Info](https://github.com/amin3ltd/hugo-papermod/wiki/Features#home-info-mode), and [Profile](https://github.com/amin3ltd/hugo-papermod/wiki/Features#profile-mode).
 - **Light and dark themes** -- Automatic switching based on browser preference, plus a manual toggle.
 - **Multilingual support** -- Includes a built-in language selector.
 - **Search** -- Client-side search powered by Fuse.js.
@@ -58,19 +58,19 @@
 
 | Topic                                                                                             | Description                                     |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **[Installation guide](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)**        | Detailed installation and update instructions   |
-| **[Features wiki page](https://github.com/adityatelange/hugo-PaperMod/wiki/Features)**            | In-depth explanations of all features           |
-| **[FAQ wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs)**                          | Common questions and configuration walkthroughs |
-| **[Icons wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Icons)**                       | Documentation for social icons and share icons  |
-| **[Variables wiki](https://github.com/adityatelange/hugo-PaperMod/wiki/Variables)**               | List of all available template variables        |
-| **[Overiding templates](https://github.com/adityatelange/hugo-PaperMod/wiki/Template_Overrides)** | Guide to customizing templates without forking  |
-| **[Releases](https://github.com/adityatelange/hugo-PaperMod/releases)**                           | Detailed history of releases                    |
+| **[Installation guide](https://github.com/amin3ltd/hugo-papermod/wiki/Installation)**        | Detailed installation and update instructions   |
+| **[Features wiki page](https://github.com/amin3ltd/hugo-papermod/wiki/Features)**            | In-depth explanations of all features           |
+| **[FAQ wiki](https://github.com/amin3ltd/hugo-papermod/wiki/FAQs)**                          | Common questions and configuration walkthroughs |
+| **[Icons wiki](https://github.com/amin3ltd/hugo-papermod/wiki/Icons)**                       | Documentation for social icons and share icons  |
+| **[Variables wiki](https://github.com/amin3ltd/hugo-papermod/wiki/Variables)**               | List of all available template variables        |
+| **[Overiding templates](https://github.com/amin3ltd/hugo-papermod/wiki/Template_Overrides)** | Guide to customizing templates without forking  |
+| **[Releases](https://github.com/amin3ltd/hugo-papermod/releases)**                           | Detailed history of releases                    |
 
 ---
 
 ## Performance ☄️
 
-PaperMod consistently scores near-perfect results on [Pagespeed Insights](https://pagespeed.web.dev/report?url=https://adityatelange.github.io/hugo-PaperMod/).
+PaperMod consistently scores near-perfect results on [Pagespeed Insights](https://pagespeed.web.dev/report?url=https://amin3ltd.github.io/hugo-PaperMod/).
 
 <img width="481" height="116" alt="image" src="https://github.com/user-attachments/assets/497d831b-d143-4a46-bc11-b1d7f8ef4a83" />
 
@@ -80,7 +80,7 @@ PaperMod consistently scores near-perfect results on [Pagespeed Insights](https:
 
 - Star this repository to show your support.
 - Share PaperMod with others who might find it useful.
-- Sponsor the project on [GitHub Sponsors](https://github.com/sponsors/adityatelange) or [Ko-Fi](https://ko-fi.com/adityatelange).
+- Sponsor the project on [GitHub Sponsors](https://github.com/sponsors/amin3ltd) or [Ko-Fi](https://ko-fi.com/amin3ltd).
 
 ---
 
@@ -91,3 +91,8 @@ PaperMod consistently scores near-perfect results on [Pagespeed Insights](https:
 - [Feather Icons](https://github.com/feathericons/feather)
 - [Simple Icons](https://github.com/simple-icons/simple-icons)
 - All contributors and supporters
+
+## Contact
+- **Email:** [amin3ltd@gmail.com](mailto:amin3ltd@gmail.com)
+- **GitHub:** [github.com/amin3ltd](https://github.com/amin3ltd)
+
